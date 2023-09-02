@@ -2,7 +2,7 @@
 A python medium for nmap scans
 
 ## Installation
-You have to install Nmap and python-nmap in order for this to work.
+You have to install [Nmap](https://nmap.org/download.html) and python-nmap in order for this to work.
 
 ```
 pip install python-nmap
