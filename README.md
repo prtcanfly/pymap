@@ -25,11 +25,11 @@ Replace "ip" with the IP address you want to scan; and replace "type" with the s
 
 ### Scan Types
 
-    Fast: Scans a predefined set of common ports.
-    Medium: Scans a wider range of common ports.
-    Top: Scans an extensive list of ports, suitable for a thorough examination.
-    Normal: Scans the first 1000 ports.
-    Full: Scans all 65535 ports (time-consuming).
+    fast: Scans a predefined set of common ports.
+    med: Scans a wider range of common ports.
+    top: Scans an extensive list of ports, suitable for a thorough examination.
+    normal: Scans the first 1000 ports.
+    full: Scans all 65535 ports (time-consuming).
 
 ## Example Input/Output:
 
